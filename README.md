@@ -24,4 +24,4 @@ More projects will be added continuously as I expand my work in data visualizati
 - **Jupyter Notebook** 
 - **Python 3**
 - **Tableau**
-- **Variety of libraries in the provided requirements.txt**
+- **Python Libraries, among them: Matplotlib and Seaborn**
