@@ -18,6 +18,7 @@ More projects will be added continuously as I expand my work in data visualizati
 | `Covid19_Impact_on_Economic_Indicators.pdf` | COVID-19 Impact on Key Economic Indicators                     |
 | `Gold_Silver_vs_Geopolitical_Risk.pdf` | Gold & Silver Price Behavior Under Geopolitical Risk           |
 | `Mobility_Rates_2020_2022_USA.pdf`     | Mobility Patterns in the United States (2020–2022)             |
+| `Transportation_Networks.pdf`          | Study and visualizations of ground and air transportation networks at different levels             |
 
 
 ## 🧩 Technologies Used
