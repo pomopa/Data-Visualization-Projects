@@ -26,3 +26,4 @@ More projects will be added continuously as I expand my work in data visualizati
 - **Python 3**
 - **Tableau**
 - **Python Libraries, among them: Matplotlib and Seaborn**
+- **Gephi**
