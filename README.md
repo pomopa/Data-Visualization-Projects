@@ -14,6 +14,7 @@ More projects will be added continuously as I expand my work in data visualizati
 
 | File                                   | Description                                                    |
 |----------------------------------------|----------------------------------------------------------------|
+| `Dash/`                                | Folder with smaller dashboard based projects with multiple interactive visualizations |
 | `Air_Quality_and_Mortality.pdf`        | Worldwide study of Air Quality Trends and Their Relationship to Mortality Rates   |
 | `Covid19_Impact_on_Economic_Indicators.pdf` | COVID-19 Impact on Key Economic Indicators                     |
 | `Gold_Silver_vs_Geopolitical_Risk.pdf` | Gold & Silver Price Behavior Under Geopolitical Risk           |
