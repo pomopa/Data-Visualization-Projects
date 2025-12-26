@@ -3,7 +3,7 @@
 
 This repository showcases a collection of data visualization projects I have developed using a wide range of tools and techniques. The goal is to explore how different visualization methods can transform raw data into clear, insightful, and actionable stories. Each project highlights a specific domain, dataset, or visualization approach, providing both technical implementation and analytical interpretation. 
 
-Some projects have been done collaboratively and the co-authors will be cited acordingly.
+Some projects have been done collaboratively and the co-authors will be cited acordingly in them.
 
 📘 Overview
 The projects in this repository span various fields—from finance and marketing to mortality, covid, and more. They demonstrate the use of multiple visualization libraries, dashboards, and analytical frameworks. Each project includes documentation, context about the dataset, and insights gained through visualization.
@@ -26,5 +26,5 @@ More projects will be added continuously as I expand my work in data visualizati
 - **Jupyter Notebook** 
 - **Python 3**
 - **Tableau**
-- **Python Libraries, among them: Matplotlib and Seaborn**
+- **Python Libraries, among them: Matplotlib, Seaborn and Dash**
 - **Gephi**
